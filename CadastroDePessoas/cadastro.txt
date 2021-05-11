@@ -1,0 +1,7 @@
+Lucas;18
+Alice;18
+Neide;51
+Orlando;58
+José;80
+Josefa;81
+Jerson;32
